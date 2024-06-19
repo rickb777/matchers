@@ -1,9 +1,7 @@
-package matchers_test
+package matchers
 
 import (
 	"testing"
-
-	. "github.com/benmoss/matchers"
 )
 
 type Test struct {
