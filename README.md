@@ -3,6 +3,8 @@
 [![GoDoc](https://img.shields.io/badge/api-Godoc-blue.svg)](https://pkg.go.dev/github.com/rickb777/matchers)
 [![Issues](https://img.shields.io/github/issues/rickb777/matchers.svg)](https://github.com/rickb777/matchers/issues)
 
+## This fork is now archived.
+
 Have you ever been in this situation, scratching your head trying to compare some complex data structures?
 
 ```
